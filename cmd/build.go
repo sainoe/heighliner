@@ -7,8 +7,8 @@ import (
 	"path"
 	"path/filepath"
 
+	"github.com/sainoe/heighliner/builder"
 	"github.com/spf13/cobra"
-	"github.com/strangelove-ventures/heighliner/builder"
 	"github.com/strangelove-ventures/heighliner/docker"
 	"gopkg.in/yaml.v2"
 )

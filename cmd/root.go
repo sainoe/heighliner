@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/sainoe/heighliner/builder"
 	"github.com/spf13/cobra"
-	"github.com/strangelove-ventures/heighliner/builder"
 	"gopkg.in/yaml.v2"
 )
 
